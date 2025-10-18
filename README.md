@@ -1,0 +1,1 @@
+This GitHub repository contains the main Python code and datasets used in the book (draft) "Polysemy in Semantics with Contextualized Language Models: Distribution, Boundaries and Interpretation of Polysemous Senses (2025)."
